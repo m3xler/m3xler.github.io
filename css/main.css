@@ -206,6 +206,10 @@ input.input100 {
 [ Color ]*/
 .cl0 {color: #fff;}
 
+a, a:hover, a:focus, a:active {
+  text-decoration: none;
+}
+
 
 
 
