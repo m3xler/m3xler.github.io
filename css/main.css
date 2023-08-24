@@ -207,7 +207,8 @@ input.input100 {
 .cl0 {color: #fff;}
 
 a, a:hover, a:focus, a:active {
-  text-decoration: none;
+  color: #fafafa !important;
+  text-decoration: none !important;
 }
 
 
