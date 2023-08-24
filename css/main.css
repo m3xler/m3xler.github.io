@@ -226,6 +226,10 @@ input.input100 {
   line-height: 1.2;
 }
 
+.s1-txt2 a {
+  text-decoration: none;
+}
+
 .s1-txt3 {
   font-family: Montserrat-Regular;
   font-size: 12px;
